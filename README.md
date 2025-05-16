@@ -53,3 +53,16 @@ NumPy
 Matplotlib / Seaborn
 
 Jupyter Notebook
+
+🚀 How to Run
+Clone the repository
+git clone https://github.com/your-username/credit-scoring-model.git
+cd credit-scoring-model
+Install dependencies
+pip install -r requirements.txt
+Run the Jupyter Notebook
+
+
+
+🙌 Acknowledgement
+This project was completed as part of an internship training program to apply machine learning techniques in real-world finance-based use cases.
